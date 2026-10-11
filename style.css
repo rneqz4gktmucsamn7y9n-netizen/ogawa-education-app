@@ -11,3 +11,5 @@
 [hidden]{display:none!important}.login-screen{min-height:100vh;display:grid;place-items:center;padding:24px}.login-card{width:440px;max-width:100%;background:white;border:1px solid var(--line);border-radius:14px;padding:30px}.login-card h1{font-size:22px}.login-card form button{width:100%}#login-status{color:#a53d32;margin-top:15px;white-space:pre-wrap}.sync-bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:11px;margin:25px 0 16px;color:var(--green)}#sync-status{flex:1;min-width:170px}#toast{max-width:90vw;z-index:100;left:50%;transform:translateX(-50%)}select:disabled{opacity:.7}@media(max-width:700px){input,select{font-size:16px}.sync-bar{gap:8px}}
 
 #login-switch{margin-top:15px}#signup-form .secondary{margin-top:12px}#signup-form select{display:block;width:100%;margin-top:9px}#approval-check{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}.access-row{padding:18px 0;border-bottom:1px solid var(--line)}.access-row p{overflow-wrap:anywhere}.access-row button{margin:10px 6px 0 0}#access-list{margin-top:20px}
+
+.delete-user{color:#a23e38;border-color:#e9c8c4}
